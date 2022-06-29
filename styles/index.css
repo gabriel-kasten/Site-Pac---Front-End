@@ -21,3 +21,13 @@ nav a{
     overflow: hidden;
     max-height: 650px;
 }
+
+footer{
+    background-color: #8F1443;
+}
+
+.logo-catolica{
+    min-width: 260px;
+    max-width: 340px;
+    justify-items: center;
+}
