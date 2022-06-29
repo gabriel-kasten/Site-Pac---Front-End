@@ -1,0 +1,9 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.carousel{
+    overflow: hidden;
+    max-height: 550px;
+}
