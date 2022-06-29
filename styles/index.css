@@ -13,7 +13,6 @@
 
 nav a{
     font-weight: 475 !important;
-    text-transform: uppercase;
     color: #FFE428 !important;
 }
 
@@ -26,6 +25,12 @@ nav a{
     text-transform: uppercase;
     color: white;
     background-color: #10151C;
+}
+
+.sec-2 input{
+    background-color: white;
+    border: solid 10px white;
+    border-radius: 15px;
 }
 
 footer{
