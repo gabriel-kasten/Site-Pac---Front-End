@@ -19,7 +19,13 @@ nav a{
 
 .thumb-container{
     overflow: hidden;
-    max-height: 650px;
+    max-height: 500px;
+}
+
+.sec-2{
+    text-transform: uppercase;
+    color: white;
+    background-color: #10151C;
 }
 
 footer{
