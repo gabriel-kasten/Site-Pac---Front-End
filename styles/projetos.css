@@ -3,7 +3,7 @@
     margin: 0px;
 }
 
-body{
+body {
     background-color: #10151C;
     color: white;
     text-align: justify;
@@ -22,9 +22,10 @@ nav a {
     color: #FFE428 !important;
 }
 
-.carousel-item{
-    min-height: 200px;
+.carousel-item {
+    min-height: 500px;
     max-height: 500px;
+    background-color: whitesmoke;
 }
 
 .carousel-control-prev,
@@ -48,4 +49,13 @@ nav a {
         display: grid;
         justify-content: center;
     }
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon{
+    border-radius: 20px;
+    border: solid 10px#10151C;
+}
+
+.card-body-img{
+    min-height: 200px;
 }
